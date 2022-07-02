@@ -14,4 +14,4 @@ text = "Sur la base de ces échanges Blake Lemoine a donc jugé que le système 
 
 text_punctuated = punctuator.punctuate(text, lang='fr')
 
- logging.info(f"text ponctuated: [ {len(text_punctuated)} ].")
+logging.info(f"text ponctuated: [ {text_punctuated} ].")
