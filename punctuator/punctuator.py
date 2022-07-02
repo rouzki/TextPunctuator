@@ -9,12 +9,12 @@ from langdetect import detect
 
 from torch import cuda
 
-from utils import T5Model
+from .utils import T5Model
 
 MODEL_NAME = "ZakaryaRouzki/t5-punctuation"
 
 
-class TextPonctuator:
+class TextPunctuator:
 
     def __init__(self, use_gpu=False):
                 

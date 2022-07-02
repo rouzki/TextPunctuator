@@ -14,7 +14,7 @@ with open("requirements.txt", "r") as fh:
 
 setup(
     name="TextPunctuator",
-    version="1.0.0",
+    version="1.0.1",
     author="Zakarya ROUZKI",
     author_email="zakaryarouzki@gmail.com",
     description="A package to punctuate text, currently supporting French text, more languages comming soon.",
@@ -22,7 +22,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/rouzki/text-punctuator",
     packages=find_packages(),
-    keywords=['punctuator', 'nlp', 'text', 'transformers', 't5']
+    keywords=['punctuator', 'nlp', 'text', 'transformers', 't5'],
     classifiers=[
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: MIT License",
