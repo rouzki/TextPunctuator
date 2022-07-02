@@ -17,9 +17,7 @@ MODEL_NAME = "ZakaryaRouzki/t5-punctuation"
 class TextPonctuator:
 
     def __init__(self, use_gpu=False):
-        
-        self.lang = lang
-        
+                
         ## using gpu
         if use_gpu:
             if cuda.is_available():
@@ -29,7 +27,7 @@ class TextPonctuator:
         else:
             self.device = 'cpu'
 
-        self.model = T5Model(MODEL_NAME)
+        self.model = T5Model(MODEL_NAME, self.device)
 
 
 

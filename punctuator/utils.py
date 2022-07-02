@@ -11,6 +11,7 @@ class T5Model:
     def __init__(self, MODEL_NAME, device):
         self.model_name = MODEL_NAME
         self.device = device
+        self.load_model(MODEL_NAME)
 
     def load_model(self, MODEL_NAME):
         self.model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME)
