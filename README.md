@@ -35,6 +35,6 @@ text_punctuated
 
 -----------------------------------------------
 ## ☕ Contact 
-Contact [Zakarya ROUZKI ](https://zakaryarouzki@gmail.com) or at [Linkedin](https://linkedin.com/in/rouzki).
+Contact [Zakarya ROUZKI ](mailto:zakaryarouzki@gmail.com) or at [Linkedin](https://linkedin.com/in/rouzki).
 
 -----------------------------------------------
