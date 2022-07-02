@@ -4,7 +4,7 @@ __author__ = "Zakarya ROUZKI"
 __email__ = "zakaryarouzki@gmail.com"
 
 
-from punctuator import TextPonctuator
+from Punctuator import TextPonctuator
 import logging
 
 punctuator = TextPonctuator(use_gpu=False)
