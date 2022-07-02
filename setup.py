@@ -14,7 +14,7 @@ with open("requirements.txt", "r") as fh:
 
 setup(
     name="TextPunctuator",
-    version="1.0.1",
+    version="1.0.2",
     author="Zakarya ROUZKI",
     author_email="zakaryarouzki@gmail.com",
     description="A package to punctuate text, currently supporting French text, more languages comming soon.",
