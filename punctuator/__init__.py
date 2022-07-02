@@ -1,1 +1,1 @@
-from .punctuator import TextPunctuator
+from .Punctuator import TextPunctuator

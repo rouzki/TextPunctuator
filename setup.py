@@ -14,13 +14,13 @@ with open("requirements.txt", "r") as fh:
 
 setup(
     name="TextPunctuator",
-    version="1.0.2",
+    version="1.0.4",
     author="Zakarya ROUZKI",
     author_email="zakaryarouzki@gmail.com",
     description="A package to punctuate text, currently supporting French text, more languages comming soon.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/rouzki/text-punctuator",
+    url="https://github.com/rouzki/TextPunctuator",
     packages=find_packages(),
     keywords=['punctuator', 'nlp', 'text', 'transformers', 't5'],
     classifiers=[
