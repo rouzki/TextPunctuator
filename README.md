@@ -10,7 +10,6 @@ Model trained using 2 french datasets (around 500k records):
 
 more info will be added later.
 
----------------------------
 ## 🚀 Usage
 **TextPunctuator as a wrapper of the model.**
 1. Install the package.
