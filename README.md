@@ -35,8 +35,6 @@ la sensibilité supposée de LaMDA à deux cents employés de Google. Très vite
 l’entreprise ont rejeté les allégations. """
 ```
 
------------------------------------------------
+
 ## ☕ Contact 
 Contact [Zakarya ROUZKI ](mailto:zakaryarouzki@gmail.com) or at [Linkedin](https://linkedin.com/in/rouzki).
-
------------------------------------------------
